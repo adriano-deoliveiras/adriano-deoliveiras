@@ -20,16 +20,6 @@ Tecnologias e conteúdos que serão trabalhados na minha jornada de aprendizado:
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode&theme=dark" />
 </p>
 
-📚 Áreas de estudo
-
-| Área | Conteúdo |
-|---|---|
-| Programação | Lógica de programação |
-| Web | HTML, CSS e JavaScript |
-| Banco de dados | Modelagem e SQL |
-| Desenvolvimento | Construção de aplicações |
-| Versionamento | Git e GitHub |
-| Tecnologia | Fundamentos de sistemas |
 
 📊 Painel de desempenho
 
