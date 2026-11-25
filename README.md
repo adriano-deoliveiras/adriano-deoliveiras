@@ -1,61 +1,17 @@
-🟢 Antonio Adriano
-Estudante de Desenvolvimento de Sistemas
+# 🟢 Antonio Adriano | Dev em construção
+
+> `Transformando curiosidade em código e ideias em projetos.`
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+Tecnologia;Aprendendo.+Praticando.+Evoluindo." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Inicializando+minha+jornada...;Explorando+o+universo+da+tecnologia;Aprendendo.+Construindo.+Evoluindo." />
 </p>
 
-🧑‍💻 Quem sou eu?
+### `> Sobre mim`
 
-Olá! Sou Antonio Adriano, estudante de Desenvolvimento de Sistemas na EEEP Maria Carmem Vieira Moreira.
+Não estou apenas aprendendo a programar, estou descobrindo como transformar lógica em soluções e ideias em algo real.
 
-Estou desenvolvendo meus conhecimentos na área de tecnologia, explorando conceitos de programação, desenvolvimento de aplicações e criação de soluções digitais.
+Atualmente, curso **Desenvolvimento de Sistemas** na EEEP Maria Carmem Vieira Moreira, onde começo a construir minha base na tecnologia, explorando programação, sistemas e desenvolvimento de aplicações.
 
-Meu objetivo é evoluir constantemente, transformar conhecimento em projetos práticos e construir minha carreira como desenvolvedor. Pretendo também, após terminar a escola e o curso técnico, fazer faculdade na área da ciéncia da computação
+Este GitHub é o registro dessa jornada: meus aprendizados, experimentos, projetos e desafios ao longo do caminho.
 
-Tecnologias e conteúdos que serão trabalhados na minha jornada de aprendizado:
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode&theme=dark" />
-</p>
-
-📚 Áreas de estudo
-Área	Conteúdo
-Programação	Lógica de programação
-Web	HTML, CSS e JavaScript
-Banco de dados	Modelagem e SQL
-Desenvolvimento	Construção de aplicações
-Versionamento	Git e GitHub
-Tecnologia	Fundamentos de sistemas
-📊 Painel de desempenho
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=adriano-deoliveiras&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&locale=pt-br&include_all_commits=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriano-deoliveiras&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&locale=pt-br" />
-</p>
-
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com/?user=adriano-deoliveiras&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=FFFFFF&dates=AAAAAA" />
-</p>
-
-🎯 Objetivos profissionais
-Construir projetos próprios e desenvolver meu portfólio.
-Aprimorar minhas habilidades em desenvolvimento de software.
-Aprender novas linguagens e ferramentas.
-Desenvolver aplicações úteis e funcionais.
-Conquistar oportunidades para iniciar minha carreira na tecnologia.
-🌐 Conecte-se comigo
-
-<p align="center">
-<a href="https://github.com/adriano-deoliveiras">
-<img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=footer" />
-</p>
-
-<p align="center">
-<code>Desenvolvendo conhecimento, uma linha de código por vez.</code>
-</p>
+**O objetivo é simples:** evoluir como desenvolvedor, construir coisas que façam sentido e, futuramente, seguir na área de Ciência da Computação.
