@@ -30,8 +30,8 @@ Tecnologia	Fundamentos de sistemas
 📊 Painel de desempenho
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=antonio-adriano&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&locale=pt-br&include_all_commits=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-adriano&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&locale=pt-br" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=adriano-deoliveiras&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&locale=pt-br&include_all_commits=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriano-deoliveiras&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&locale=pt-br" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ Conquistar oportunidades para iniciar minha carreira na tecnologia.
 🌐 Conecte-se comigo
 
 <p align="center">
-<a href="https://github.com/antonio-adriano">
+<a href="https://github.com/adriano-deoliveiras">
 <img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 </p>
