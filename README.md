@@ -2,7 +2,7 @@
 Estudante de Desenvolvimento de Sistemas
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2200&pause=900&color=39FF14&center=true&vCenter=true&width=700&lines=E+a%C3%AD%2C+dev!+Tudo+certo%3F;Focado+em+Desenvolvimento+de+Sistemas;Code.+Build.+Evolve." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:39FF14&height=200&section=header&text=Antonio%20Adriano&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20de%20Sistemas%20%7C%20Futuro%20Cientista%20da%20Computa%C3%A7%C3%A3o&descAlignY=60&descSize=18" />
 </p>
 
 🧑‍💻 Quem sou eu?
