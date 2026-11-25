@@ -7,7 +7,7 @@ Estudante de Desenvolvimento de Sistemas
 
 🧑‍💻 Quem sou eu?
 
-Olá! Sou Antonio Adriano, estudante de Desenvolvimento de Sistemas na EEP Maria Carmem Vieira Moreira.
+Olá! Sou Antonio Adriano, estudante de Desenvolvimento de Sistemas na EEEP Maria Carmem Vieira Moreira.
 
 Estou desenvolvendo meus conhecimentos na área de tecnologia, explorando conceitos de programação, desenvolvimento de aplicações e criação de soluções digitais.
 
@@ -35,7 +35,7 @@ Tecnologia	Fundamentos de sistemas
 </p>
 
 <p align="center">
-<img width="70%" src="https://streak-stats.demolab.com/?user=antonio-adriano&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=FFFFFF&dates=AAAAAA" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=adriano-deoliveiras&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=FFFFFF&dates=AAAAAA" />
 </p>
 
 🎯 Objetivos profissionais
