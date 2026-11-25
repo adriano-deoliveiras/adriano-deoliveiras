@@ -2,7 +2,11 @@
 Estudante de Desenvolvimento de Sistemas
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=680&height=80&lines=PLAYER+1%3A+ANTONIO+ADRIANO;LEVEL+UP+EM+PROGRAMACAO;PRESS+START+TO+CODE" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:39FF14&height=180&section=header&text=Antonio%20Adriano&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=38" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Sistemas;Transformando+ideias+em+c%C3%B3digo;Rumo+%C3%A0+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" />
 </p>
 
 🧑‍💻 Quem sou eu?
