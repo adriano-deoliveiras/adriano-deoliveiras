@@ -2,7 +2,7 @@
 Estudante de Desenvolvimento de Sistemas
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=39FF14&background=0D1117&center=false&vCenter=true&multiline=true&width=650&height=130&lines=adriano%40github%3A~%24+.%2Finiciar_perfil.sh;%5BOK%5D+Estudante+de+Desenvolvimento+de+Sistemas;%5BOK%5D+Foco%3A+L%C3%B3gica%2C+Web+e+Banco+de+Dados;%3E+Pronto+para+codar..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=680&height=80&lines=PLAYER+1%3A+ANTONIO+ADRIANO;LEVEL+UP+EM+PROGRAMACAO;PRESS+START+TO+CODE" />
 </p>
 
 🧑‍💻 Quem sou eu?
