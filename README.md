@@ -2,7 +2,7 @@
 Estudante de Desenvolvimento de Sistemas
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+Ol%C3%A1%2C+mundo!+Bem-vindo+ao+meu+perfil.;%3E+Desenvolvedor+em+forma%C3%A7%C3%A3o...;%3E+Transformando+l%C3%B3gica+em+c%C3%B3digo." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=1000&color=39FF14&center=true&vCenter=true&width=720&lines=BEM-VINDO+AO+MEU+PORTF%C3%93LIO;DESENVOLVIMENTO+DE+SISTEMAS;CONSTRUINDO+O+FUTURO+COM+C%C3%93DIGO" />
 </p>
 
 🧑‍💻 Quem sou eu?
