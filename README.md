@@ -2,7 +2,7 @@
 Estudante de Desenvolvimento de Sistemas
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+Tecnologia;Aprendendo.+Praticando.+Evoluindo." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+inicializando+Antonio.exe...;%3E+transformando+ideias+em+solucoes;%3E+escrevendo+meu+proprio+futuro." />
 </p>
 
 🧑‍💻 Quem sou eu?
@@ -11,7 +11,7 @@ Olá! Sou Antonio Adriano, estudante de Desenvolvimento de Sistemas na EEEP Mari
 
 Estou desenvolvendo meus conhecimentos na área de tecnologia, explorando conceitos de programação, desenvolvimento de aplicações e criação de soluções digitais.
 
-Meu objetivo é evoluir constantemente, transformar conhecimento em projetos práticos e construir minha carreira como desenvolvedor. Pretendo também, após terminar a escola e o curso técnico, fazer faculdade na área da ciéncia da computação
+Meu objetivo é evoluir constantemente, transformar conhecimento em projetos práticos e construir minha carreira como desenvolvedor. Pretendo também, após terminar a escola e o curso técnico, fazer faculdade na área da ciência da computação.
 
 Tecnologias e conteúdos que serão trabalhados na minha jornada de aprendizado:
 
@@ -20,13 +20,16 @@ Tecnologias e conteúdos que serão trabalhados na minha jornada de aprendizado:
 </p>
 
 📚 Áreas de estudo
-Área	Conteúdo
-Programação	Lógica de programação
-Web	HTML, CSS e JavaScript
-Banco de dados	Modelagem e SQL
-Desenvolvimento	Construção de aplicações
-Versionamento	Git e GitHub
-Tecnologia	Fundamentos de sistemas
+
+| Área | Conteúdo |
+|---|---|
+| Programação | Lógica de programação |
+| Web | HTML, CSS e JavaScript |
+| Banco de dados | Modelagem e SQL |
+| Desenvolvimento | Construção de aplicações |
+| Versionamento | Git e GitHub |
+| Tecnologia | Fundamentos de sistemas |
+
 📊 Painel de desempenho
 
 <p align="center">
@@ -39,11 +42,13 @@ Tecnologia	Fundamentos de sistemas
 </p>
 
 🎯 Objetivos profissionais
-Construir projetos próprios e desenvolver meu portfólio.
-Aprimorar minhas habilidades em desenvolvimento de software.
-Aprender novas linguagens e ferramentas.
-Desenvolver aplicações úteis e funcionais.
-Conquistar oportunidades para iniciar minha carreira na tecnologia.
+
+- Construir projetos próprios e desenvolver meu portfólio.
+- Aprimorar minhas habilidades em desenvolvimento de software.
+- Aprender novas linguagens e ferramentas.
+- Desenvolver aplicações úteis e funcionais.
+- Conquistar oportunidades para iniciar minha carreira na tecnologia.
+
 🌐 Conecte-se comigo
 
 <p align="center">
