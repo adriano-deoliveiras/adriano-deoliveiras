@@ -11,18 +11,9 @@ Olá! Sou Antonio Adriano, estudante de Desenvolvimento de Sistemas na EEP Maria
 
 Estou desenvolvendo meus conhecimentos na área de tecnologia, explorando conceitos de programação, desenvolvimento de aplicações e criação de soluções digitais.
 
-Meu objetivo é evoluir constantemente, transformar conhecimento em projetos práticos e construir minha carreira como desenvolvedor.
+Meu objetivo é evoluir constantemente, transformar conhecimento em projetos práticos e construir minha carreira como desenvolvedor. Pretendo também, após terminar a escola e o curso técnico, fazer faculdade na área da ciéncia da computação
 
-⚡ Um pouco sobre mim
-🎓 Estudante de Desenvolvimento de Sistemas.
-💡 Interesse em programação e tecnologia.
-🧩 Aprendendo a desenvolver soluções computacionais.
-🌱 Sempre buscando novos conhecimentos.
-🤝 Interesse em projetos colaborativos.
-💼 Em busca de experiência e oportunidades na área de TI.
-🛠️ Conhecimentos em desenvolvimento
-
-Tecnologias e conteúdos trabalhados na minha jornada de aprendizado:
+Tecnologias e conteúdos que serão trabalhados na minha jornada de aprendizado:
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode&theme=dark" />
