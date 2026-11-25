@@ -1,6 +1,3 @@
-🟢 Antonio Adriano
-Estudante de Desenvolvimento de Sistemas
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:39FF14&height=180&section=header&text=Antonio%20Adriano&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=38" />
 </p>
