@@ -14,12 +14,6 @@ Estou desenvolvendo meus conhecimentos na área de tecnologia, explorando concei
 
 Meu objetivo é evoluir constantemente, transformar conhecimento em projetos práticos e construir minha carreira como desenvolvedor. Pretendo também, após terminar a escola e o curso técnico, fazer faculdade na área da ciência da computação.
 
-Tecnologias e conteúdos que serão trabalhados na minha jornada de aprendizado:
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode&theme=dark" />
-</p>
-
 
 📊 Painel de desempenho
 
